@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,wasm,cloudflare,workers,nix,redis,js,linux,html,css,apple,aws,bash,bevy,c,cpp,discord,docker,git,github,githubactions,gitlab,gmail,graphql,instagram,linkedin,md,nodejs,npm,obsidian,pnpm,postman,py,react,redux,regex,sentry,ts,vscode,yarn)](https://skillicons.dev)
 
 ### Former
-[![My Skills](https://skillicons.dev/icons?i=ae,angular,apollo,arduino,atom,babel,bitbucket,bootstrap,codepen,coffeescript,cypress,dynamodb,elasticsearch,electron,express,figma,flask,gatsby,gulp,heroku,ai,java,jenkins,jest,jquery,laravel,less,mongodb,mysql,netlify,nginx,notion,perl,ps,php,processing,py,raspberrypi,redhat,rollupjs,ruby,sass,sqlite,stackoverflow,styledcomponents,sublime,selenium,svg,unity,vercel,vite,vitest,webpack,windows,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,angular,apollo,arduino,atom,babel,bitbucket,bootstrap,codepen,coffeescript,cypress,dynamodb,elasticsearch,electron,express,figma,flask,gatsby,gulp,heroku,ai,java,jenkins,jest,jquery,laravel,less,mongodb,mysql,netlify,nginx,notion,perl,ps,php,processing,raspberrypi,redhat,rollupjs,ruby,sass,sqlite,stackoverflow,styledcomponents,sublime,selenium,svg,unity,vercel,vite,vitest,webpack,windows,wordpress)](https://skillicons.dev)
 
 ### Future
 [![My Skills](https://skillicons.dev/icons?i=actix,arch,go,haskell,kafka,kotlin,latex,swift,tauri,zig)](https://skillicons.dev)
